@@ -1,8 +1,8 @@
-Data,Produto,Preco_unitario,Quantidade,Faturamento
-12/04/2025,brahma,4,22,88
-12/04/2025,skol,2,18,36
-12/04/2025,chocolate,10,60,600
-12/04/2025,saguado,56,14,784
-12/04/2025,canja de galinha,10000,99,990000
-12/04/2025,agua,1,100,100
-12/04/2025,refrigerante,5,50,250    
+Data,Produto,Preco_unitario,Quantidade
+12/04/2025,brahma,8,22
+12/04/2025,skol,2,18
+12/04/2025,arroz,999999,2
+12/04/2025,cafe,99999999,1
+12/04/2025,canja de galinha,9,9999
+12/04/2025,agua,2,100
+12/04/2025,refrigerante,7,50    
